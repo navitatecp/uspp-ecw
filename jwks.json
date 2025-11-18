@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "kid": "ecw-signing-key-v1",
+      "use": "sig",
+      "alg": "RS256",
+      "n": "wH2Z1ndyArabXZmdc6o3kJfycEfln_VXjhNL4SJ8oZB96z2ymQGGMcRKoKpYUrvzG8Ji_2NZiQ-nJQZ25DbnkxFenwdPdaQy1nBaRJdBHSQDktup2NFslXNELNV0utIkbROxgZUCn0I7qGL3kqTvjs0z9FEzV8ZDJrDl6WUzEnewls8qUM_0vwSbGiJI9MWX1bejD-wOGWtwmefKwRmcWNlBRdQAJia6S4r7DXHHh6mVHQDgUBkx6Tz6MwxxHwP_SIvj398i36XcggCfCCKAboYnjq0n39rcy_jD8-Q-EQ9dH_8U0NcQO9kE_wfdo0K6Xifdmuqv2ucZd912Q5vwLQ",
+      "e": "AQAB"
+    }
+  ]
+}
