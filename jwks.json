@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "kid": "https://kv-ecw-keys.vault.azure.net/keys/uspp-ecw-signing-key-v2/95fe8a21fcca40dbb2ad9b4f3ebf425a",
+      "use": "sig",
+      "alg": "RS384",
+      "n": "2fJwJ2xacIiNw7UNoRl3u2xjCdRK71o0ej5C5GeFEiXHZOWvMp8Y6Ul5JJ7ZEcOTRNZlnHA8oepPUNvkXJeef9dDoIukYbqz5j1nr0LAYBbV0EixnWt9ygmk0Hl1-TT4UBU62GfzVdbPb7MHjudJmnC-ZimUPtVaNarW_HpykbUwSPrAWfqzBZ32eydEehjcYLzKZOe2U_jU0g-w-nhWWSIALH_BN2ct0T9_oWtX-IBZw3ZJzm4qCjt6X-O0jNEYBiwMSZTDAQRWl0cla69X-u2Vocrwl8RnV2mJjE2t_eOFZc3D4VIKvkSEE1yh7_ix3UGrL03IUJhUpk7TGW_DsQ",
+      "e": "AQAB"
+    }
+  ]
+}
