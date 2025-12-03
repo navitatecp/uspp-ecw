@@ -5,6 +5,10 @@
       "n": "2fJwJ2xacIiNw7UNoRl3u2xjCdRK71o0ej5C5GeFEiXHZOWvMp8Y6Ul5JJ7ZEcOTRNZlnHA8oepPUNvkXJeef9dDoIukYbqz5j1nr0LAYBbV0EixnWt9ygmk0Hl1-TT4UBU62GfzVdbPb7MHjudJmnC-ZimUPtVaNarW_HpykbUwSPrAWfqzBZ32eydEehjcYLzKZOe2U_jU0g-w-nhWWSIALH_BN2ct0T9_oWtX-IBZw3ZJzm4qCjt6X-O0jNEYBiwMSZTDAQRWl0cla69X-u2Vocrwl8RnV2mJjE2t_eOFZc3D4VIKvkSEE1yh7_ix3UGrL03IUJhUpk7TGW_DsQ",
       "e": "AQAB",
       "alg": "RS384",
+      "key_ops": [
+        "verify"
+      ],
+      "ext": true,
       "kid": "4970d934dc4a7cdb41b2dde16d7acf02",
       "use": "sig"
     }
